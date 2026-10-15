@@ -24,3 +24,6 @@ This project presents an interactive Mobile Sales Dashboard built using Microsof
 ## How to View
 Download the `.pbix` file from this repository and open it using Microsoft Power BI Desktop.
 
+## Dashboard Preview
+
+![Mobile Sales Dashboard](Mobile-Sales-Dashboard.png)
